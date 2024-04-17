@@ -1,0 +1,45 @@
+body{
+    font-family: 'Comic Sans MS';
+}
+.site-heading-lower{
+    font-family: 'Comic Sans MS';
+}
+.mb-3{
+    font-family: 'Comic Sans MS';
+    color: grey !important;
+}
+
+/* div stuff */
+body{
+    background-color: grey;
+    color: black;
+}
+.common{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+.top{
+    position: relative;
+    left: 25px;
+    right: 50px;
+    background-color: bisque;
+}
+.middle{
+    position: relative;
+    left: 25px;
+    right: 25px;
+    background-color: beige;
+}
+.bottom{
+    position: relative;
+    left: 25px;
+    right: 25px;
+    z-index: 1;
+    background-color: rgb(231, 190, 140);
+}
+.way-bottom{
+    position: relative;
+    left: 25px;
+    right: 25px;
+    background-color: blanchedalmond;
+}
